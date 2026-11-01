@@ -1,4 +1,4 @@
-# Utkarsh Gupta
+# utkarshgupta-org
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,13 +64,13 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Utkarsh Gupta is a full‑stack developer and computer engineering student based in Mumbai. He builds web products, AI/ML tools, and reliable backend systems, runs self‑hosted services on a dedicated Ubuntu server, and contributes to open‑source projects. His portfolio includes the SportIQ MCP server handling 20K requests in 20 days, and he actively mentors the coding community. He offers freelance development, consulting, and internship experience, showcasing expertise across Java, Python, JavaScript, React, Node.js, Spring Boot, and cloud deployment.
+Utkarsh Gupta is a Computer Engineering student and full‑stack developer who maintains a personal portfolio site showcasing projects, tutorials, and blog posts on software development, AI/ML, and cloud infrastructure. The site serves as a hub for his professional work, open‑source contributions, and contact information, reflecting his expertise in modern web technologies and engineering practice.
 
-**Areas:** Developer · Student · Full-Stack · AI/ML · Open-Source
+**Areas:** Company · Portfolio · Developer · Full-Stack · AI/ML
 
-## Utkarsh Gupta on APIs.io
+## utkarshgupta-org on APIs.io
 
-Everything profiled for Utkarsh Gupta is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/utkarshgupta-org/](https://apis.io/providers/utkarshgupta-org/)** — or go straight to one of the APIs or properties below.
+Everything profiled for utkarshgupta-org is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/utkarshgupta-org/](https://apis.io/providers/utkarshgupta-org/)** — or go straight to one of the APIs or properties below.
 
 ### Published properties
 
@@ -87,13 +87,12 @@ Authentication, trust centre, and vulnerability disclosure.
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://utkarshgupta.org/)
-- [Documentation](https://developers.instagram.com/)
 - [Blog](https://utkarshgupta.org/blogs)
 - [GitHub](https://github.com/Ninjabeam20)
 
 ## API Evangelist rating
 
-**Kin Score 6.9** — minimal · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 4.6** — minimal · rubric 0.25.0 · scored 2026-10-31
 
 | Facet | Score |
 |---|---|
@@ -101,10 +100,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 5.3 |
-| Developer ergonomics | 11.9 |
+| Developer ergonomics | 2.4 |
 | Access clarity | 0.0 |
 
-**Agent readiness 9.6** — agent-aware
+**Agent readiness 3.1** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -112,7 +111,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Access | — |
 | Reversibility Documented | — |
 | MCP Server | documented (partial credit) |
-| Auth Clarity | served (partial credit) |
+| Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
 | OpenAPI Examples | — |
@@ -130,7 +129,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 
-**Regulatory alignment 11.8** — Education & Research
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/utkarshgupta-org/](https://apis.io/providers/utkarshgupta-org/).
 
@@ -138,7 +137,7 @@ The rubric is published at [github.com/api-evangelist/kin-score](https://github.
 
 API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Utkarsh Gupta: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for utkarshgupta-org: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
 ## Open an issue
 
